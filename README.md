@@ -1,6 +1,6 @@
 # FunCalc 🎉: The Animated Maths Guru!
 
-FunCalc is not your ordinary scientific calculator. It's a unique web-based tool that combines functionality with entertainment.
+FunCalc is not your ordinary scientific calculator. It's a unique web-based tool that combines functionality with entertainment, created using **Spring Boot** and **Thymeleaf**.
 
 ## Features:
 - **Comprehensive Set of Functions**: Crunch numbers with ease using a wide range of scientific functions.
