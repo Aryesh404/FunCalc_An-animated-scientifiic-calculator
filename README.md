@@ -1,4 +1,4 @@
-# FunCalc 🎉: The Animated Maths Guru!
+# FunCalc 🎉: An animated scientific calculator!
 
 FunCalc is not your ordinary scientific calculator. It's a unique web-based tool that combines functionality with entertainment, created using **Spring Boot** and **Thymeleaf**.
 
